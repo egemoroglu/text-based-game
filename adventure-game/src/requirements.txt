@@ -1,0 +1,11 @@
+boto3
+torch==2.4.1
+transformers==4.46.3
+scikit-learn
+python-dotenv
+sagemaker
+pandas
+numpy
+joblib
+psutil
+
